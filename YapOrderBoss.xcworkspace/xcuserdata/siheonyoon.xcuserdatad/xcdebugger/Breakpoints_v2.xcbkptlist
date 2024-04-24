@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "86955AA1-FD4F-46E2-8B8F-117CADFA37C3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D039F77-1EE3-472F-B6B0-35F975148CC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YapOrderBoss/Component/OrderReceiptCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "246"
+            endingLineNumber = "246"
+            landmarkName = "getOrderDetail(orderId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D039F77-1EE3-472F-B6B0-35F975148CC1 - c154a69beb2eccd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in YapOrderBoss.OrderReceiptCell.getOrderDetail(orderId: Swift.Int) -&gt; ()"
+                  moduleName = "YapOrderBoss"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siheonyoon/Desktop/Project/iyapOrder_Boss/YapOrderBoss/YapOrderBoss/Component/OrderReceiptCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "259"
+                  endingLineNumber = "259"
+                  offsetFromSymbolStart = "3364">
+               </Location>
+               <Location
+                  uuid = "8D039F77-1EE3-472F-B6B0-35F975148CC1 - c154a69beb2eccd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in YapOrderBoss.OrderReceiptCell.getOrderDetail(orderId: Swift.Int) -&gt; ()"
+                  moduleName = "YapOrderBoss"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siheonyoon/Desktop/Project/iyapOrder_Boss/YapOrderBoss/YapOrderBoss/Component/OrderReceiptCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "259"
+                  endingLineNumber = "259"
+                  offsetFromSymbolStart = "3624">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67F201AF-0B58-4567-BC0D-122AC5581CE9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YapOrderBoss/Component/OrderReceiptCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "304"
+            endingLineNumber = "304"
+            landmarkName = "getOrderDetail(orderId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24198B22-2402-4E55-81B4-976A4C1945EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YapOrderBoss/Component/OrderReceiptCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "272"
+            endingLineNumber = "272"
+            landmarkName = "getOrderDetail(orderId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6FCFDAD-798D-474F-9479-00216266917B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YapOrderBoss/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
+            landmarkName = "actionLogin(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B4B008E-52B7-4401-99E8-4C93B223D415"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YapOrderBoss/Common/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "getAPIURL()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8B4B008E-52B7-4401-99E8-4C93B223D415 - 7a2a191acb64c44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = [Closure Propagated : closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in YapOrderBoss.HomeViewController.getCookInfo() -&gt; (), Argument Types : []&gt; of YapOrderBoss.NetworkManager.getCookTimeInfo(token: Swift.String, storeCode: Swift.String, completion: (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; ()) -&gt; ()"
+                  moduleName = "YapOrderBoss"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siheonyoon/Desktop/Project/iyapOrder_Boss/YapOrderBoss/YapOrderBoss/Common/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "8B4B008E-52B7-4401-99E8-4C93B223D415 - 9ac870f617a4867d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[1] = [Closure Propagated : closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in YapOrderBoss.HomeViewController.getCancelReason() -&gt; (), Argument Types : []&gt; of YapOrderBoss.NetworkManager.getCancelReason(token: Swift.String, completion: (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; ()) -&gt; ()"
+                  moduleName = "YapOrderBoss"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siheonyoon/Desktop/Project/iyapOrder_Boss/YapOrderBoss/YapOrderBoss/Common/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "8B4B008E-52B7-4401-99E8-4C93B223D415 - c145b0f5aa9e8ad0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[2] = [Closure Propagated : closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in YapOrderBoss.OrderReceiptCell.getOrderDetail(orderId: Swift.Int) -&gt; (), Argument Types : [YapOrderBoss.OrderReceiptCellSwift.Int]&gt; of YapOrderBoss.NetworkManager.getOrderDetail(token: Swift.String, orderId: Swift.Int, completion: (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; ()) -&gt; ()"
+                  moduleName = "YapOrderBoss"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siheonyoon/Desktop/Project/iyapOrder_Boss/YapOrderBoss/YapOrderBoss/Common/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "8B4B008E-52B7-4401-99E8-4C93B223D415 - dea799e0d5097d02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[4] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[3] = [Closure Propagated : closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in YapOrderBoss.OrderReceiptViewController.getOrderToday() -&gt; (), Argument Types : [YapOrderBoss.OrderReceiptViewController]&gt; of YapOrderBoss.NetworkManager.getOrdersToday(token: Swift.String, storeCode: Swift.String, progress: Swift.String, completion: (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; ()) -&gt; ()"
+                  moduleName = "YapOrderBoss"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siheonyoon/Desktop/Project/iyapOrder_Boss/YapOrderBoss/YapOrderBoss/Common/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "8B4B008E-52B7-4401-99E8-4C93B223D415 - d40c11139d3256e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[9] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[8] = [Closure Propagated : closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in YapOrderBoss.OrderReceiptViewController.getOrderSearch(startDate: Swift.String, endDate: Swift.String, searchName: Swift.String, isRefresh: Swift.Bool, isSearch: Swift.Bool) -&gt; (), Argument Types : [YapOrderBoss.OrderReceiptViewControllerSwift.Bool]&gt; of YapOrderBoss.NetworkManager.getOrders(token: Swift.String, storeCode: Swift.String, startDate: Swift.String, endDate: Swift.String, orderStatus: Swift.String, keyWord: Swift.String, pageNo: Swift.String, pageSize: Swift.String, completion: (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; ()) -&gt; ()"
+                  moduleName = "YapOrderBoss"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siheonyoon/Desktop/Project/iyapOrder_Boss/YapOrderBoss/YapOrderBoss/Common/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "8B4B008E-52B7-4401-99E8-4C93B223D415 - c2fce321f52dedfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[9] = Owned To Guaranteed, Arg[10] = Owned To Guaranteed, Arg[11] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[8] = [Closure Propagated : closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in YapOrderBoss.OrderReceiptViewController.callOrderStateChange(Foundation.Notification) -&gt; (), Argument Types : [YapOrderBoss.OrderReceiptViewControllerSwift.StringSwift.String]&gt; of YapOrderBoss.NetworkManager.getOrderCancel(token: Swift.String, storeCode: Swift.String, orderId: Swift.String, saleId: Swift.String, orderStatus: Swift.String, orderType: Swift.String, cancelReasonType: Swift.String, cancelReason: Swift.String, completion: (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; ()) -&gt; ()"
+                  moduleName = "YapOrderBoss"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siheonyoon/Desktop/Project/iyapOrder_Boss/YapOrderBoss/YapOrderBoss/Common/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "8B4B008E-52B7-4401-99E8-4C93B223D415 - 9318a6b597187f4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[7] = Owned To Guaranteed, Arg[9] = Owned To Guaranteed, Arg[10] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #2 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in YapOrderBoss.OrderReceiptViewController.callOrderStateChange(Foundation.Notification) -&gt; (), Argument Types : [YapOrderBoss.OrderReceiptViewControllerSwift.IntSwift.StringSwift.String]&gt; of YapOrderBoss.NetworkManager.getOrderStatus(token: Swift.String, storeCode: Swift.String, orderId: Swift.String, saleId: Swift.String, orderStatus: Swift.String, orderType: Swift.String, completion: (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; ()) -&gt; ()"
+                  moduleName = "YapOrderBoss"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siheonyoon/Desktop/Project/iyapOrder_Boss/YapOrderBoss/YapOrderBoss/Common/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "8B4B008E-52B7-4401-99E8-4C93B223D415 - 2da67a5867a88642"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[2] = [Closure Propagated : closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in YapOrderBoss.HomeViewController.getStore() -&gt; (), Argument Types : [YapOrderBoss.HomeViewController]&gt; of YapOrderBoss.NetworkManager.getStore(token: Swift.String, storeCode: Swift.String, completion: (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; ()) -&gt; ()"
+                  moduleName = "YapOrderBoss"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siheonyoon/Desktop/Project/iyapOrder_Boss/YapOrderBoss/YapOrderBoss/Common/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "8B4B008E-52B7-4401-99E8-4C93B223D415 - d42048acddf7122c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[4] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[3] = [Closure Propagated : closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in YapOrderBoss.HomeViewController.getSalesStop(bizStop: Swift.String) -&gt; (), Argument Types : [YapOrderBoss.HomeViewController]&gt; of YapOrderBoss.NetworkManager.getSalesClosed(token: Swift.String, storeCode: Swift.String, bizStopYn: Swift.String, completion: (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; ()) -&gt; ()"
+                  moduleName = "YapOrderBoss"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siheonyoon/Desktop/Project/iyapOrder_Boss/YapOrderBoss/YapOrderBoss/Common/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "8B4B008E-52B7-4401-99E8-4C93B223D415 - 907ae54d9f82fd64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[2] = [Closure Propagated : closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in YapOrderBoss.HomeViewController.getHomeData() -&gt; (), Argument Types : [YapOrderBoss.HomeViewController]&gt; of YapOrderBoss.NetworkManager.getHomeData(token: Swift.String, storeCode: Swift.String, completion: (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; ()) -&gt; ()"
+                  moduleName = "YapOrderBoss"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siheonyoon/Desktop/Project/iyapOrder_Boss/YapOrderBoss/YapOrderBoss/Common/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "8B4B008E-52B7-4401-99E8-4C93B223D415 - 54b787b4704a7a1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Owned To Guaranteed, Arg[4] = Owned To Guaranteed, Arg[5] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[2] = [Closure Propagated : closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in YapOrderBoss.LoginViewController.actionAutoLogin() -&gt; (), Argument Types : [Swift.StringSwift.StringYapOrderBoss.LoginViewController]&gt; of YapOrderBoss.NetworkManager.getPushToken(token: Swift.String, storeCode: Swift.String, completion: (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; ()) -&gt; ()"
+                  moduleName = "YapOrderBoss"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siheonyoon/Desktop/Project/iyapOrder_Boss/YapOrderBoss/YapOrderBoss/Common/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "8B4B008E-52B7-4401-99E8-4C93B223D415 - 1dcab950679fc9ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Owned To Guaranteed, Arg[4] = Owned To Guaranteed, Arg[5] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[2] = [Closure Propagated : closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in YapOrderBoss.LoginViewController.actionAutoLogin() -&gt; (), Argument Types : [Swift.StringSwift.StringYapOrderBoss.LoginViewController]&gt; of YapOrderBoss.NetworkManager.getLogin(loginId: Swift.String, loginPw: Swift.String, completion: (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; ()) -&gt; ()"
+                  moduleName = "YapOrderBoss"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siheonyoon/Desktop/Project/iyapOrder_Boss/YapOrderBoss/YapOrderBoss/Common/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "8B4B008E-52B7-4401-99E8-4C93B223D415 - 1e9ea4296210f8f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[2] = [Closure Propagated : closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in YapOrderBoss.LoginViewController.actionLogin(Any) -&gt; (), Argument Types : [YapOrderBoss.LoginViewController]&gt; of YapOrderBoss.NetworkManager.getPushToken(token: Swift.String, storeCode: Swift.String, completion: (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; ()) -&gt; ()"
+                  moduleName = "YapOrderBoss"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siheonyoon/Desktop/Project/iyapOrder_Boss/YapOrderBoss/YapOrderBoss/Common/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "8B4B008E-52B7-4401-99E8-4C93B223D415 - d22a3e792da7e342"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[2] = [Closure Propagated : closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in YapOrderBoss.LoginViewController.actionLogin(Any) -&gt; (), Argument Types : [YapOrderBoss.LoginViewController]&gt; of YapOrderBoss.NetworkManager.getLogin(loginId: Swift.String, loginPw: Swift.String, completion: (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; ()) -&gt; ()"
+                  moduleName = "YapOrderBoss"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siheonyoon/Desktop/Project/iyapOrder_Boss/YapOrderBoss/YapOrderBoss/Common/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "8B4B008E-52B7-4401-99E8-4C93B223D415 - 8c122a36bf0c6707"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[2] = [Closure Propagated : closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in YapOrderBoss.OrderReceiptDetailViewController.getOrderDetail(orderId: Swift.Int) -&gt; (), Argument Types : [YapOrderBoss.OrderReceiptDetailViewController]&gt; of YapOrderBoss.NetworkManager.getOrderDetail(token: Swift.String, orderId: Swift.Int, completion: (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; ()) -&gt; ()"
+                  moduleName = "YapOrderBoss"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siheonyoon/Desktop/Project/iyapOrder_Boss/YapOrderBoss/YapOrderBoss/Common/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "8B4B008E-52B7-4401-99E8-4C93B223D415 - f14eb097859cb8c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[1] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[0] = [Closure Propagated : closure #1 (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; () in YapOrderBoss.SplashViewController.checkAppVersion() -&gt; (), Argument Types : [YapOrderBoss.SplashViewController]&gt; of YapOrderBoss.NetworkManager.getAppVersion(completion: (Swift.Bool, Swift.Int, __C.NSDictionary) -&gt; ()) -&gt; ()"
+                  moduleName = "YapOrderBoss"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siheonyoon/Desktop/Project/iyapOrder_Boss/YapOrderBoss/YapOrderBoss/Common/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

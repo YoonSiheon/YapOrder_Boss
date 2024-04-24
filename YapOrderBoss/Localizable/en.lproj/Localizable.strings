@@ -1,0 +1,273 @@
+/*
+  Localizable.strings
+  YapOrderBoss
+
+  Created by Yap MacBook on 2023/01/09.
+  
+*/
+"app_name" = "얍오더사장님";
+
+"action_confirm" = "확인";
+"action_cancel" = "취소";
+"action_next" = "다음";
+"action_close" = "닫기";
+"action_order_receipt" = "주문접수";
+"action_detail" = "자세히 보기";
+"action_storestop" = "영업중지";
+"action_setting" = "설정하기";
+
+
+//************************************************************************//
+
+
+"navigation_title_home" = "HOME";
+"navigation_title_orderReceipt" = "주문접수";
+"navigation_title_serviceManagement" = "메뉴관리";
+"navigation_title_salesStatistics" = "매출정산";
+"navigation_title_moreMenu" = "더보기";
+
+"webview_error_title" = "죄송합니다.";
+"webview_error_message" = "요청하신 페이지를 찾을 수 없습니다.\n이용에 불편을 드려 죄송합니다.";
+
+"view_title_info" = "메뉴관리";//
+"view_title_option" = "옵션관리";//
+"view_title_out" = "품절관리";//
+"view_title_order" = "노출순서";//
+
+"view_title_sale" = "매출조회";//
+"view_title_calc" = "정산내역";//
+"view_title_disc" = "할인정산";//
+
+"view_title_store_info" = "매장정보";//
+"view_title_store_time" = "영업시간";//
+"view_title_store_origin" = "원산지";//
+"view_title_marketing_sale" = "메뉴할인";//
+"view_title_marketing_stamp" = "스템프";//
+
+"view_title_bbs_notice" = "공지사항";
+"view_title_bbs_faq" = "FAQ";
+"view_title_my_info" = "계정관리";
+"view_title_inquiry" = "1:1문의";
+"view_title_terms" = "이용약관";
+"view_title_config_noti" = "알림 설정";
+"view_title_bell" = "주문알림음 설정";
+"view_title_cktm" = "조리시간 설정";
+
+"view_title_management_info_add" = "메뉴추가";
+"view_title_management_info_view" = "메뉴정보";
+"view_title_management_info_edit_menu" = "메뉴정보 수정";
+"view_title_management_info_edit_option" = "옵션정보 수정";
+"view_title_management_info_edit_etc" = "주문유형 수정";
+
+"view_title_management_option_add" = "옵션추가";
+"view_title_management_option_group_add" = "옵션그룹 추가";
+"view_title_management_option_menu_add" = "옵션메뉴 추가";
+"view_title_management_option_group_edit" = "옵션그룹 수정";
+"view_title_management_option_menu_edit" = "옵션메뉴 수정";
+
+"view_title_sales_receipt" = "영수증 조회";
+"view_title_sales_detail" = "정산내역 상세";
+
+"view_title_moremenu_store_edit" = "매장정보 수정";
+"view_title_moremenu_store_image_edit" = "매장이미지 수정";
+
+"view_title_moremenu_store_opening_edit" = "영업시간 수정";
+"view_title_moremenu_store_holiday_edit" = "휴무일 수정";
+
+"view_title_moremenu_store_origin_edit" = "원산지 수정";
+
+"view_title_moremenu_marketing_management" = "마케팅관리";
+
+"view_title_moremenu_menu_disc_add" = "메뉴할인 추가";
+"view_title_moremenu_menu_disc_edit" = "메뉴할인 수정";
+
+"view_title_moremenu_stamp_add" = "스탬프 추가";
+"view_title_moremenu_stamp_edit" = "스탬프 수정";
+
+"view_amount" = "원";
+"view_people" = "명";
+"view_reservation" = "예약";
+"view_today" = "오늘";
+
+
+//************************************************************************//
+
+
+"login_tf_id_placeholder" = "아이디(이메일)";
+"login_tf_pw_placeholder" = "비밀번호";
+"login_autologin" = "자동 로그인";
+"login_storeinquiry" = "입점문의";
+"login_searchpw" = "비밀번호 찾기";
+"login_button" = "로그인";
+"login_login_fail" = "아이디 또는 비밀번호가 정확하지 않습니다.";
+"login_login_fail_empty" = "아이디 또는 비밀번호를 입력해주세요.";
+"login_local_api" = "Local API - (ex:192.168.xxx.xxx:0000)(비워두면 기본서버로 연결됩니다.)";
+"login_local_front" = "Local Front - (ex:192.168.xxx.xxx:0000)(비워두면 기본서버로 연결됩니다.)";
+
+
+//************************************************************************//
+
+
+"home_store_default_title" = "얍오더 사장님";
+
+"home_storestop_title" = "영업 임시중지";
+"home_storestop_off" = "설정 시 영업이 임시로 중지됩니다.";
+"home_storestop_on" = "영업 임시중지가 설정되었습니다.";
+"home_storestop_start" = "임시 영업중지 처리 되었습니다.";
+"home_storestop_stop" = "임시 엽엉중지 해제 되었습니다.";
+
+"home_count_order" = "접수대기";
+"home_count_processing" = "처리중";
+"home_count_complete" = "완료";
+"home_count_cancel" = "취소";
+
+"home_tab_opening" = "영업시간";
+"home_tab_management" = "품절관리";
+"home_tab_notice" = "공지사항";
+"home_tab_question" = "1:1문의";
+
+"home_realsales_title" = "실시간 매출";
+"home_sales_amount" = "원";
+"home_sales_yesterday" = "어제";
+"home_sales_lastweek" = "전주 동요일";
+
+"home_weeklysales_title" = "주간 매출";
+
+"home_weeklysales_lastweek" = "지난주";
+"home_weeklysales_thisweek" = "이번주";
+"home_weeklysales_mon" = "월";
+"home_weeklysales_tue" = "화";
+"home_weeklysales_wed" = "수";
+"home_weeklysales_thu" = "목";
+"home_weeklysales_fri" = "금";
+"home_weeklysales_sta" = "토";
+"home_weeklysales_sun" = "일";
+"home_weeklysales_day" = "요일";
+
+"home_favorite_title" = "실시간 인기메뉴";
+"home_favorite_none" = "오늘 판매된 메뉴정보가 없습니다.";
+"home_favorite_amount" = "원";
+"home_favorite_quantity" = "건";
+
+
+//************************************************************************//
+
+
+"order_title" = "주문접수";
+"order_ordertoday" = "오늘주문";
+"order_orderall" = "전체주문";
+
+"order_orderwaiting" = "접수대기";
+"order_orderprocessing" = "처리중";
+"order_ordercomplete" = "완료";
+"order_ordercancel" = "취소";
+
+"order_status_order" = "접수대기";
+"order_status_reservation" = "예약대기";
+"order_status_order_complete" = "상품준비";
+"order_status_product_complete" = "상품준비완료";
+"order_status_cancel" = "주문취소";
+
+"order_search_all" = "전체";
+"order_search_order" = "주문접수";
+"order_search_reservation" = "예약대기";
+"order_search_order_complete" = "접수완료";
+"order_search_ready" = "상품준비";
+"order_search_complete" = "상품 준비완료";
+"order_search_pickup_delay" = "픽업지연";
+"order_search_pickup_delay_complete" = "픽업 지연완료";
+"order_search_pickup" = "미픽업";
+"order_search_reservation_cancel" = "예약취소";
+"order_search_cancel" = "주문취소";
+"order_tf_search_placeholder" = "  메뉴명 입력";
+"order_search_button" = "조회";
+
+"order_table_comment_none" = "주문정보가 없습니다.";
+"order_table_comment_in" = "오래 기다린 주문이 상단에 노출됩니다.\n맨 위의 주문을 먼저 접수해주세요.";
+
+"order_wait_number" = "주문번호";
+
+"order_detail_title" = "주문상세";
+"order_detail_number" = "no.";
+"order_detail_product" = "상품명";
+"order_detail_quantity" = "수량";
+"order_detail_saleamount" = "금액";
+"order_detail_product_product" = "주문상품";
+"order_detail_product_count" = "건";
+
+"order_detail_button_cancel" = "주문취소";
+"order_detail_button_confirm" = "주문접수";
+"order_detail_button_onebutton" = "픽업요청 알림";
+
+"order_detail_today_discount" = "오늘의 할인";
+"order_detail_member_phone" = "고객 연락처";
+"order_detail_member_memo" = "고객요청";
+"order_detail_reservation" = "예약시간";
+"order_detail_reservation_table" = "테이블";
+
+"order_detail_total_saleamount" = "주문금액";
+"order_detail_discountamount" = "할인";
+"order_detail_payment_method" = "결제수단";
+"order_detail_payamount" = "결제금액";
+
+
+
+//************************************************************************//
+
+
+"popup_networkerror_title" = "네트워크 오류";
+"popup_networkerror_description" = "네트워크에 연결할 수 없습니다.\n연결상태를 확인해주세요.";
+"popup_networkerror_data_empty" = "오류로 인하여 정상적인\n데이터를 수신하지 못하였습니다.";
+
+"popup_storestop_title" = "매장 영업을 임시 중지합니다.";
+"popup_storestop_description1" = "영업이 중지되면 고객 주문을 받을 수 없습니다.";
+"popup_storestop_description2" = "임시 중지 상태는 자동으로 정상 영업 처리되지 않습니다.";
+"popup_storestop_description3" = "이미 접수된 주문은 자동 취소되지 않습니다.";
+"popup_storestop_dot" = "•";
+
+"popup_order_estimatetime_tile" = "조리시간";
+"popup_order_estimatetime_description" = "예상 조리시간을 선택해 주세요.";
+"popup_order_cancelreason_title" = "취소사유";
+"popup_order_cancelreason_description" = "취소 사유를 선택해 주세요.";
+
+"popup_receipt_orderwaitting" = "접수완료 처리하시겠습니까?\n고객에게 접수완료 알림이 전송됩니다.";
+"popup_receipt_orderprocessing" = "상품 준비완료 처리하시겠습니까?\n고객에게 성품 준비완료 알림이 전송됩니다.";
+"popup_receipt_ordercomplete" = "고객에게 픽업요청 알림을\n전송하시겠습니까?";
+"popup_receipt_ordercancel" = "주문취소";
+
+"popup_noti_ready" = "[상품준비] ";
+"popup_noti_complete" = "[상품준비완료] ";
+"popup_noti_pickup" = "[픽업요청알림] ";
+"popup_noti_cancel" = "[주문취소] ";
+"popup_noti_etc" = "새로운 알림을 확인해 주세요";
+
+"popup_search_overday" = "오늘이후의 날짜는 선택할 수 없습니다.";
+"popup_search_overday_title" = "날짜를 다시 선택해주세요";
+
+"popup_update_title" = "업데이트 안내";
+"popup_update_description" = "새로운 버전이 업데이트 되었습니다.\n업데이트를 누르면 앱스토어로 이동합니다.";
+
+"popup_logout_description" = "로그아웃 하시겠습니까?";
+
+"popup_logout_success_description" = "성공적으로 로그아웃 하였습니다.";
+
+"popup_camera_permission_description" = "사장님, 편리한 서비스 이용을 위해\n아래의 접근 권한을 허용해 주세요.";
+"popup_camera_permission_image_title" = "카메라(선택)";
+"popup_camera_permission_album_title" = "앨범 및 미디어(선택)";
+"popup_camera_permission_image_description" = "메뉴 및 매장의 이미지를 등록";
+"popup_camera_permission_message" = "*편리한 서비스 이용을 위한 선택사항이므로\n접근 권한을 허용하지 않아도 얍오더 사장님 앱을\n이용하실 수 있습니다.";
+
+"popup_notification_permission_description" = "사장님, 알람 설정을 켜 주시면\n새로운 주문 알림을 받을 수 있습니다.";
+"popup_notification_permission_togle_title_device_noti" = "알림허용";
+"popup_notification_permission_togle_title_config_alert" = "주문알림";
+"popup_notification_permission_message" = "위와 같이 알림을 허용해 주세요.";
+"popup_notification_permission_use" = "사용";
+"popup_notification_permission_nonuse" = "미사용";
+
+"popup_password_change_description" = "비밀번호 변경을 위해\nyaporder@yap.net으로\n문의해 주세요.";
+"popup_password_change_message" = "*정보 확인을 위해 매장명, 대표자명과\n휴대폰 번호를 함께 기재하여 문의해 주세요.";
+
+"popup_permission_title" = "권한 확인";
+"popup_permission_check_description" = "카메라 및 앨범의\n사용 권한을 확인해 주세요.";
+
+
